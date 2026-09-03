@@ -7,8 +7,7 @@ This project is an interactive healthcare web application designed to collect co
 ## 🚀 Live Demo
 
 View the live dashboard here:
-
-🔗 https://your-app-url.streamlit.app
+🔗 https://readmemd-vjbuxczo3bsxjygs6xzcqg.streamlit.app
 
 ## Features
 
